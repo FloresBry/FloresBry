@@ -1,7 +1,7 @@
 
  ###### ![PUERTA](https://github.com/user-attachments/assets/ba60af49-b91b-4537-b002-b8594cd0fb0f)
 
- ## Hola a todos !!!!!!!!1 👋
+ ## Hola a todos !!!!!!!! 
 
 <!--
 **FloresBry/FloresBry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
