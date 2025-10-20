@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Mi nombre es Bry Flores Soy estudiante de programacion!
-#### Centro Universitario de Cinecias Exactas e Ingenierias (CUCEI).
 
 ![BRY](https://github.com/user-attachments/assets/31852378-ba36-407b-a0b4-5eafd80b1576)
 
