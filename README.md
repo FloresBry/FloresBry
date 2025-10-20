@@ -1,4 +1,6 @@
-## Hi there 👋
+
+![20250530_140833(0)](https://github.com/user-attachments/assets/0b9bc257-4a7b-430b-897d-eea617a77ae2)
+ ## Hithere 👋
 
 <!--
 **FloresBry/FloresBry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Mi nombre es Bry Flores Soy estudiante de programacion En el Centro Universitario de Cinecias Exactas e Ingenierias (CUCEI).
+
+Lenguajes que conozco:
+
+-C
+-C++
+-Python
+-Php
+-Javascript
+
+
+
