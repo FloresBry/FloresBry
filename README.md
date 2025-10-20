@@ -1,5 +1,6 @@
 
-![20250530_140833(0)](https://github.com/user-attachments/assets/0b9bc257-4a7b-430b-897d-eea617a77ae2)
+![PUERTA](https://github.com/user-attachments/assets/ba60af49-b91b-4537-b002-b8594cd0fb0f)
+
  ## Hithere 👋
 
 <!--
